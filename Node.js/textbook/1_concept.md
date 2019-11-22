@@ -78,4 +78,15 @@ Ex) 이미지, 비디오, 대규모 데이터 처리
  노드 사용하는 곳 : NASA, 에어비엔비, 우버, 넷플릭스, 링크드인, 페이팔, 월마트, 이베이
  
  # 서버 외의 노드
+ ### 웹 프레임워크   
+ Angular : 구글 진영에서 프런트엔드 앱 만들때 
+ React : 페이스북 진영
+ Vue : 
+ Meteor : 
  
+ 모바일 개발 도구  
+ React Native  
+ Ionic Framework  
+ 
+ 데스크톱 개발 도구  
+ Electron : (Ex, Atom, Slack, Discord ,VS code)  
